@@ -1,2 +1,2 @@
-computeConected: computeConected.cpp
-	g++ -O3 -o computeConected computeConected.cpp
+colorConnectedPieces: colorConnectedPieces.cpp
+	g++ -O3 -o colorConnectedPieces colorConnectedPieces.cpp
